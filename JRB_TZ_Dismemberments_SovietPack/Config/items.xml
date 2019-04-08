@@ -1,0 +1,48 @@
+<TZ_Dismemberments_SovietPack>
+
+<!-- Melee -->
+
+<!-- Spetsnaz Machete -->
+	<append xpath="/items/item[@name='Spetsnaz Machete']/effect_group[@name='Base Effects']">
+		<passive_effect name="DismemberChance" operation="base_set" value="1" tags="head,leg,arm"/>
+	</append>
+
+
+	
+
+<!-- Ammo -->
+
+<!-- 5.45x39 ammo -->
+	<append xpath="/items/item[@name='5.45x39 ammo']/effect_group[@name='Base Effects']">
+		<passive_effect name="DismemberChance" operation="base_set" value="1" tags="head"/>
+	</append>
+<!-- 5.45x39 HP ammo -->
+	<append xpath="/items/item[@name='5.45x39 HP ammo']/effect_group[@name='Base Effects']">
+		<passive_effect name="DismemberChance" operation="base_set" value="1" tags="head"/>
+	</append>
+<!-- 9x39 ammo -->
+	<append xpath="/items/item[@name='9x39 ammo']/effect_group[@name='Base Effects']">
+		<passive_effect name="DismemberChance" operation="base_set" value="1" tags="head"/>
+	</append>
+<!-- 9x39 HP ammo -->
+	<append xpath="/items/item[@name='9x39 HP ammo']/effect_group[@name='Base Effects']">
+		<passive_effect name="DismemberChance" operation="base_set" value="1" tags="head"/>
+	</append>
+<!-- 14.5×114 ammo -->
+	<append xpath="/items/item[@name='14.5×114 ammo']/effect_group[@name='Base Effects']">
+		<passive_effect name="DismemberChance" operation="base_set" value="1" tags="head"/>
+	</append>
+<!-- 14.5×114 HP ammo -->
+	<append xpath="/items/item[@name='14.5×114 HP ammo']/effect_group[@name='Base Effects']">
+		<passive_effect name="DismemberChance" operation="base_set" value="1" tags="head"/>
+	</append>
+<!-- 7.62x54 ammo -->
+	<append xpath="/items/item[@name='7.62x54 ammo']/effect_group[@name='Base Effects']">
+		<passive_effect name="DismemberChance" operation="base_set" value="1" tags="head"/>
+	</append>
+<!-- 7.62x54 HP ammo -->
+	<append xpath="/items/item[@name='7.62x54 HP ammo']/effect_group[@name='Base Effects']">
+		<passive_effect name="DismemberChance" operation="base_set" value="1" tags="head"/>
+	</append>
+
+</TZ_Dismemberments_SovietPack>

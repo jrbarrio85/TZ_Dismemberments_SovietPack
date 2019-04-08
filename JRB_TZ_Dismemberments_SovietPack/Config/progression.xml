@@ -1,0 +1,6 @@
+<TZ_Dismemberments_SovietPack>
+
+<!-- Remove Boom Headshot perk -->
+	<remove xpath="/progression/perks/perk[@name='perkHeadshot']" />
+	
+</TZ_Dismemberments_SovietPack>
